@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.superheroes"},{"l":"com.example.superheroes.controller"},{"l":"com.example.superheroes.dao"},{"l":"com.example.superheroes.dao.mapper"},{"l":"com.example.superheroes.dto"}];updateSearchResults();
